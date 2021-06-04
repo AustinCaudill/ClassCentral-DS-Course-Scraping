@@ -1,20 +1,12 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
+# In[ ]:
 
 
 # ClassCentral Data Science Course Scraping
 # Austin Caudill
 # Last Update: 6/04/2021
-
-Course = []
-Duration = []
-Start_Date = []
-Offered_By = []
-No_Of_Reviews = []
-Rating = []
-Provider = []
 
 import requests
 from bs4 import BeautifulSoup
